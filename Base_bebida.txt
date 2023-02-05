@@ -1,0 +1,10 @@
+Santa Teresa 1976
+ 20
+ 9
+ b
+ True
+ 12 Pack Pesis
+ 16
+ 3
+ b
+ False

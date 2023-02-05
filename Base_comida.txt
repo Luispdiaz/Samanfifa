@@ -1,0 +1,15 @@
+Doble Cheese Burger
+ 11.99
+ 10
+ c
+ False
+ Doritos
+ 1.5
+ 33
+ c
+ True
+ Hot Dog
+ 4.99
+ 13
+ c
+ False
